@@ -50,11 +50,11 @@ However, Lot 3 results indicate that they are slightly statistically different f
 
 AutosRUs is working round the clock to improve their new Mechacar prototype. The company also needs to analyze their competitors car feature to get some market share and recognition within their customer base. The main features that need to be assessed are cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. 
 
-##Metric to test
+## Metric to test
 
 Although there a multitude of possible metrics to consider,  Jeremy would like to assess and compare the cars gasoline efficiency. 
 
-##Null and Alternate Hypothesis
+## Null and Alternate Hypothesis
 
 Null Hypotheses:Mechacar's gasoline efficinecy is statistically same or better than the competitor's avg MPG in the same automobile  category.
 Alternate Hypotheseis: There is statstical difference in gasoline efficiency between Mechacar and its competitors.
